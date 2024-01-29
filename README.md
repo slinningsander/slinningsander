@@ -1,9 +1,9 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=slinningsander.slinningsander)
-# Sander Garland Slinning
+# Sander Garland Slinning 🙋‍♂️
 
 **`CompSci student/Part-time Software Developer @ Sikt`**
 
-Hello👋 I'm a 21-year old Computer Science student at the Norwegian University of Science and Technology, based in Trondheim 🏫 I also work part-time as a Software Developer at Sikt - Norwegian Agency for Shared Services in Education and Research, where I am currently working on a digital student ID native mobile app👨‍🎓 My main compentencies lie within the web and mobile development, but I also have an interest for other parts of computer science, such as machine learning🤖
+Hello👋 I'm a 21-year old Computer Science student at the Norwegian University of Science and Technology, based in Trondheim🏫 I also work part-time as a Software Developer at Sikt - Norwegian Agency for Shared Services in Education and Research, where I am currently working on a digital student ID native mobile app👨‍🎓 My main compentencies lie within the web and mobile development, but I also have an interest for other parts of computer science, such as machine learning🤖
 
 ---
 ### Skills  
