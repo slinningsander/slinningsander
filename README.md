@@ -2,9 +2,9 @@
 
 <h1>Sander Garland Slinning <img height="40px" src="https://github.com/slinningsander/slinningsander/assets/91120797/23f35322-b082-4192-82b3-fd90fc5645cc"></h1>
 
-**`CompSci student/Part-time Software Developer @ Sikt`**
+**`CompSci student/Software Developer @ Sikt`**
 
-Hello👋 I'm a 22-year old Computer Science student at the Norwegian University of Science and Technology, based in Trondheim🏫 I also work part-time as a Software Developer at Sikt - Norwegian Agency for Shared Services in Education and Research, where I am currently working on a digital student ID native mobile app👨‍🎓 My main competencies lie within web and mobile development, but I also have an interest in other parts of computer science, such as artificial intelligence🤖
+Hello👋 I'm a 22-year old Computer Science student at the Norwegian University of Science and Technology, based in Trondheim🏫 Going on exchange to Instituto Duperior Técnico this fall🌊 This summer I am working as a Software Developer at Sikt - Norwegian Agency for Shared Services in Education and Research, where I am currently working on semi-automated system for document handling in higher education applications👨‍🎓 My main competencies lie within web and mobile development, but I also have an interest in other parts of computer science, such as artificial intelligence🤖
 
 ---
 ### Skills  
