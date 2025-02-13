@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=slinningsander.slinningsander">
 
-<h1>Sander Garland Slinning <img height="40px" src="https://github.com/slinningsander/slinningsander/assets/91120797/23f35322-b082-4192-82b3-fd90fc5645cc"></h1>
+<h1>Sander Garland Slinning <img height="40px width=40px" src="https://github.com/slinningsander/slinningsander/assets/91120797/23f35322-b082-4192-82b3-fd90fc5645cc"></h1>
 
 **`CompSci student/Software Developer @ Sikt`**
 
